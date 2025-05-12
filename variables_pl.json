@@ -9,4 +9,16 @@
 		"nombrearchivoadls_PIP":"casos_muertes.csv",
 		"rutahttp":"https://raw.githubusercontent.com/madrianzen-dev/ADFcovid/construccion/"	
 	}
+	,
+	{
+		"nombrearchivohttp_PIP":"pruebas.csv",
+		"nombrearchivoadls_PIP":"pruebas.csv",
+		"rutahttp":"https://raw.githubusercontent.com/madrianzen-dev/ADFcovid/construccion/"	
+	}
+	,
+	{
+		"nombrearchivohttp_PIP":"respuesta_pais.csv",
+		"nombrearchivoadls_PIP":"respuesta_pais.csv",
+		"rutahttp":"https://raw.githubusercontent.com/madrianzen-dev/ADFcovid/construccion/"	
+	}
 ]
