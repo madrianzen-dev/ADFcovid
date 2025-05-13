@@ -1,0 +1,7 @@
+[
+{
+		"nombrearchivohttp_pip":"pruebas.csv",
+		"nombrearchivoadls_pip":"pruebas.csv",
+		"rutahttp_pip":"https://raw.githubusercontent.com/madrianzen-dev/ADFcovid/construccion/"	
+	}
+]
