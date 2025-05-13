@@ -8,5 +8,20 @@
                 "nombrearchivohttp_pip":"respuesta_pais.csv",
 		"nombrearchivoadls_pip":"respuesta_pais.csv",
 		"rutahttp_pip":"https://raw.githubusercontent.com/madrianzen-dev/ADFcovid/construccion/"	
+	},
+	{
+                "nombrearchivohttp_pip":"admisiones_hospital.csv",
+		"nombrearchivoadls_pip":"admisiones_hospital.csv",
+		"rutahttp_pip":"https://raw.githubusercontent.com/madrianzen-dev/ADFcovid/construccion/"	
+	},
+	{
+                "nombrearchivohttp_pip":"casos_muertes.csv",
+		"nombrearchivoadls_pip":"casos_muertes.csv",
+		"rutahttp_pip":"https://raw.githubusercontent.com/madrianzen-dev/ADFcovid/construccion/"	
+	},
+	{
+                "nombrearchivohttp_pip":"archivo.csv",
+		"nombrearchivoadls_pip":"archivo.csv",
+		"rutahttp_pip":"https://raw.githubusercontent.com/madrianzen-dev/ADFcovid/construccion/"	
 	}
 ]
